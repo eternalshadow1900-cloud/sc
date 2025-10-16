@@ -1,0 +1,22 @@
+{
+    "name": "Eternal Shadow Is Here!",
+    "version": "1.0.0",
+    "description": "Dev : @KaiiGood",
+    "main": "Kaii.js",
+    "scripts": {
+        "start": "node Kaii.js"
+    },
+    "dependencies": {
+        "@whiskeysockets/baileys": "github:axpaw-xone/Cgafsx-Baileys",
+        "axios": "^1.6.0",
+        "body-parser": "^1.20.3",
+         "fs": "latest",
+        "chalk": "^4.1.2",
+        "pino": "^9.5.0",
+        "@octokit/rest": "latest",
+        "readline-sync": "^1.4.10",
+        "telegraf": "^4.16.3",
+        "crypto": "latest",
+        "moment-timezone": "latest"
+    }
+}
